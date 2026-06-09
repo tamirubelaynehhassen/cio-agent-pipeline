@@ -26,28 +26,12 @@ graph TD
 
 ### Specialized Committee Seat Allocations
 
-* 
-**Document Intelligence Agent:** Manages content ingestion, structures heterogeneous text packages, and runs initial critical asset omission checks.
-
-
-* 
-**Thesis & Strategic Fit Agent (15% Weight):** Evaluates problem-solution fit narrative alignment and product scalability potential.
-
-
-* 
-**Market & Timing Agent (15% Weight):** Validates total addressable market (TAM) scope, adoption tailwinds, and macro trends.
-
-
-* 
-**Competitive Dynamics Agent (15% Weight):** Analyzes defensibility frameworks, proprietary IP, and customer switching costs.
-
-
-* 
-**Business Model & Economics Agent (20% Weight):** Evaluates monetization resilience and uses the **Model Context Protocol (MCP)** to securely discover and query external financial verification tools.
-
-
-* 
-**Team, Execution & Risk Agent (35% Weight):** Evaluates background execution capability, corporate governance controls, and regulatory parameters.
+* **Document Intelligence Agent:** Manages content ingestion, structures heterogeneous text packages, and runs initial critical asset omission checks.
+* **Thesis & Strategic Fit Agent (15% Weight):** Evaluates problem-solution fit narrative alignment and product scalability potential.
+* **Market & Timing Agent (15% Weight):** Validates total addressable market (TAM) scope, adoption tailwinds, and macro trends.
+* **Competitive Dynamics Agent (15% Weight):** Analyzes defensibility frameworks, proprietary IP, and customer switching costs.
+* **Business Model & Economics Agent (20% Weight):** Evaluates monetization resilience and uses the **Model Context Protocol (MCP)** to securely discover and query external financial verification tools.
+* **Team, Execution & Risk Agent (35% Weight):** Evaluates background execution capability, corporate governance controls, and regulatory parameters.
 
 
 
@@ -55,24 +39,11 @@ graph TD
 
 ## Technical Stack & Production Footprint
 
-* 
-**Reasoning Engine:** Gemini 2.5 Pro via Vertex AI 
-
-
-* 
-**Orchestration Framework:** Google Agent Development Kit (ADK) 
-
-
-* 
-**Grounding Infrastructure:** Vertex AI Search for data grounding and RAG 
-
-
-* 
-**Compute Runtime Layer:** Fully containerized microservice deployed on Google Cloud infrastructure 
-
-
-* 
-**Authentication Posture:** 100% Keyless Identity Federation utilizing Google Application Default Credentials (ADC) and granular IAM service roles.
+* **Reasoning Engine:** Gemini 2.5 Pro via Vertex AI 
+* **Orchestration Framework:** Google Agent Development Kit (ADK) 
+* **Grounding Infrastructure:** Vertex AI Search for data grounding and RAG 
+* **Compute Runtime Layer:** Fully containerized microservice deployed on Google Cloud infrastructure 
+* **Authentication Posture:** 100% Keyless Identity Federation utilizing Google Application Default Credentials (ADC) and granular IAM service roles.
 
 
 
