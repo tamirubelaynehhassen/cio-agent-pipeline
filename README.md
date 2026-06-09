@@ -4,10 +4,10 @@
 ---
 
 ## Overview
-[cite_start]CIO Agent is a production-grade, keyless multi-agent architecture built for the **Google for Startups AI Agents Challenge 2026 (Track 1: Build)**[cite: 43, 70, 186, 376]. [cite_start]It automates comprehensive due diligence processing on startup transaction materials—including pitch decks, financial models, and structured data tables—reducing weeks of manual investment committee vetting into minutes while maintaining institutional-grade rigor, transparency, and full audit tracking[cite: 19, 23, 42, 72, 110].
+CIO Agent is a production-grade, keyless multi-agent architecture built for the **Google for Startups AI Agents Challenge 2026 (Track 1: Build)**It automates comprehensive due diligence processing on startup transaction materials—including pitch decks, financial models, and structured data tables—reducing weeks of manual investment committee vetting into minutes while maintaining institutional-grade rigor, transparency, and full audit tracking.
 
 ## Core Architecture & Orchestration
-[cite_start]The system coordinates an Investment Committee structure using an asynchronous hierarchical multi-agent blueprint managed by Google's Agent Development Kit (ADK)[cite: 21, 22, 71, 75, 108, 109].
+The system coordinates an Investment Committee structure using an asynchronous hierarchical multi-agent blueprint managed by Google's Agent Development Kit (ADK).
 
 ```mermaid
 graph TD
